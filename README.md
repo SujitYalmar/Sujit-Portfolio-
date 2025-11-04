@@ -7,8 +7,8 @@ A portfolio website showcasing the projects, skills, and achievements of Sujit Y
 **Social Media & Contact:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://linkedin.com/in/sujit-yalmar)
-[![Email](https://img.shields.io/badge/Email-sujityalmar1717@gmail.com-red?logo=gmail)](mailto:sujityalmar1717@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@sujit.yalmar-purple?logo=instagram)](https://instagram.com/sujit.yalmar)
-[![Live Demo](https://img.shields.io/badge/Portfolio-Live%20Demo-green?logo=google-chrome)](https://sujityalmar-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-sujityalmar02@gmail.com-red?logo=gmail)](mailto:sujityalmar02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@sujit.yalmar-purple?logo=instagram)](https://instagram.com/sujit_0210)
+[![Live Demo](https://img.shields.io/badge/Portfolio-Live%20Demo-green?logo=google-chrome)](https://sujityalmar-portfolio.netlify.app)
 
 ---
