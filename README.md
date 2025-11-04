@@ -1,4 +1,4 @@
-**Sujit-Portfolio-**
+## **Portfolio**
 
 A portfolio website showcasing the projects, skills, and achievements of Sujit Yalmar, a Computer Engineering student focused on software development, web technologies, and system design. Contains academic projects, professional experiences, and certifications, along with contact and social media links for networking and collaboration.
 
